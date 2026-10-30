@@ -1,4 +1,4 @@
-<img src="banner.svg" alt="ventry - solana dev" width="100%">
+<img src="banner.png" alt="ventry - onchain vibecoding" width="100%">
 
 <p>
 <img src="https://img.shields.io/badge/solana-14F195?style=flat-square&logo=solana&logoColor=000" alt="solana">
