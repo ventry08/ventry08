@@ -8,13 +8,13 @@
 
 ## hey
 
-I build on Solana and measure what actually happens.
+i'm ventry. i build on solana.
 
-Two months of pointing instruments at the chain instead of trading it. Everything I publish ships with the file, the line, and the date it was measured.
+spent the last two months measuring the chain instead of trading it - how transactions actually land, and whether any of the advice people repeat holds up.
 
-No signals. No calls. No paid group.
+most of it doesn't.
 
-## what I have been measuring
+## what i measured
 
 ```
 on-chain data collected     ████████████████████  211 GB
@@ -24,14 +24,14 @@ videos parsed for rules     ████████              631   (268 cha
 rules that survived         █                     1 of 8
 ```
 
-That last line is the one worth staring at.
+that last line is the interesting one.
 
 ## open
 
 | | |
 |---|---|
-| **[leader-radar](https://github.com/ventry08/leader-radar)** | which validator client holds the Solana ledger right now, and what that does to your transaction. No deps, no key |
-| **rank-cost** | how transactions actually get ordered: requested CU, loaded-data limits, tip lanes `soon` |
+| **[leader-radar](https://github.com/ventry08/leader-radar)** | which validator client holds the solana ledger right now, and what that does to your transaction. no deps, no key |
+| **rank-cost** | how transactions actually get ordered - requested CU, loaded-data limits, tip lanes `soon` |
 | **signals-tested** | 15 entry signals against 1,148 tokens, with base rates `soon` |
 
 ## writing
@@ -45,6 +45,4 @@ That last line is the one worth staring at.
 
 ---
 
-<sub>Everything here is measured, not claimed. Where a number comes from a vendor, it says so. Where a result does not survive a correction for multiple comparisons, it says that too.</sub>
-
-<sub>Currently: Solana infrastructure, memecoin microstructure, and whatever breaks next.</sub>
+<sub>no signals, no calls, no paid group. numbers come with the file and the date.</sub>
