@@ -73,13 +73,20 @@ p = 0.007**, same sign across all five market-cap buckets.
 
 ### open
 
-- `solana-landing` - transaction ranking: leader classes, CU limits, tip lanes `soon`
-- `meme-rules-tested` - 15 entry signals vs 1,148 tokens, with base rates `soon`
+**[leader-radar](https://github.com/ventry08/leader-radar)** - which validator client holds the ledger right now, and what that does to your transaction. No deps, no key.
+
+```
+  holding the ledger   Jito  (JitoLabs)
+  how it orders you    rank formula + block engine auction every 50ms
+  fastest bots land    25-28 ms
+```
+
+More coming: the rank-cost measurements, and 15 entry signals tested against 1,148 tokens with base rates.
 
 ### writing
 
-- anatomy of a solana sniper: what actually decides who buys first `soon`
-- eight rules that are noise: the niche's checklist, measured `soon`
+- buying a memecoin moves 13 megabytes: inside the speed race `soon`
+- seven rules that are noise: the niche's checklist, measured `soon`
 
 ---
 
